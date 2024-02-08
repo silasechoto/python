@@ -1,0 +1,9 @@
+maths = 70
+english = 70
+kiswahili = 80
+total = maths + english + kiswahili
+print(f"total score = {total} ")
+average = total/3
+print(f"average score ={average}")
+modulus = 80%76
+print(f"modulus score = {modulus}")
